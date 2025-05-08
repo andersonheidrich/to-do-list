@@ -34,7 +34,6 @@ const Form = ({ addTodo }) => {
             <option value="Pessoal">Pessoal</option>
             <option value="Trabalho">Trabalho</option>
             <option value="Estudo">Estudo</option>
-            <option value="Lazer">Lazer</option>
           </select>
           <Button type="submit" className={"create-button"}>
             Adicionar
